@@ -1,27 +1,29 @@
 # 👋 Hi, I’m Max (@GibbHubb)
 
-**Software Engineer | Full Stack Developer | Problem Solver**
+**Full-Stack Developer | AI & Web Applications**
 
-I’m a Software Engineer currently working at **Lloyds Banking Group**. I’ve transitioned from a background in sports and mathematics into the world of tech, bringing a competitive edge and analytical mindset to every codebase I touch.
+Currently leading a development team at **Huracan Technical Advisory** in Amsterdam. I specialize in building real-world AI tools, focusing on semantic search, document understanding, and full-stack architecture.
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Building scalable, secure financial solutions at Lloyds.
-- 💻 **Tech Stack:** Specialized in **Full Stack Development** (Node.js, React, TypeScript) with a foundational background in **C**.
-- 📐 **Background:** I hold a strong interest in Mathematics, which fuels my approach to algorithmic efficiency and logic.
-- 🏂 **Outside of Code:** You'll find me snowboarding, staying active in sports, or diving into math puzzles.
+### 🚀 What I'm Doing
+- 🛠️ **Leading RETRAG:** Developing an AI-powered tool for document and image-based retrieval.
+- 🧠 **AI Integration:** Building pipelines for semantic search using Vector Databases (ChromaDB) and LLM interfaces (Ollama/Open WebUI).
+- 🏗️ **Full-Stack:** Crafting robust applications using React, Node.js, and PostgreSQL.
+- 🏂 **Interests:** When I'm not optimizing query performance, I'm likely snowboarding or geeking out over Maths and Sports.
 
-### 🛠️ Skills & Tools
-* **Languages:** JavaScript, TypeScript, C, Python
-* **Web:** React, Node.js, HTML5, CSS3, REST APIs
-* **DevOps/Tools:** Git, CI/CD, Agile Methodologies
+### 🛠️ Tech Stack
+* **Languages:** JavaScript (ES6+), Python, SQL, C
+* **Frontend:** React, HTML5, CSS3, Open WebUI
+* **Backend:** Node.js, PostgreSQL, ChromaDB, REST APIs
+* **Tools:** Docker, Git, Ollama, LangChain principles
 
-### 🤝 Let's Connect
-I'm always open to discussing interesting projects, open-source collaborations, or the best snowboarding spots in Europe.
+### 📈 Professional Experience
+* **Full-Stack Developer @ Huracan Technical Advisory** (Jul 2024 – Present)
+* **Codecademy Alum** (Focus on Full-Stack & API Development)
+* **Former Head of Health** (Bringing leadership and analytical skills from a previous career in Brisbane)
 
+### 📫 Let's Connect
 * **LinkedIn:** [Max Gibson](https://www.linkedin.com/in/max-gibson-784a63234/)
-* **Discord:** `gibbhub`
-* **Portfolio/Site:** [Add your personal site link here if you have one!]
 
 ---
