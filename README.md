@@ -1,29 +1,43 @@
-# 👋 Hi, I’m Max (@GibbHubb)
+## Hi, I'm Max 👋
 
-**Full-Stack Developer | AI & Web Applications**
+Infrastructure developer and systems engineer building tools at the intersection of **engineering data**, **AI**, and **operational software**.
 
-Currently leading a development team at **Huracan Technical Advisory** in Amsterdam. I specialize in building real-world AI tools, focusing on semantic search, document understanding, and full-stack architecture.
+By day I architect Odoo environments, RAG pipelines, and requirements management systems for infrastructure projects across the Netherlands. By night I build full-stack portfolio projects to sharpen the craft.
+
+---
+
+### What I'm working on
+
+- **Odoo 19 migration** — custom requirements management platform for offshore infrastructure projects (TenneT, NRU, WSP). Custom addons: historical library, V&V tracking, AI-assisted applicability scoring.
+- **RAG cluster** — 8-container Proxmox LXC cluster serving per-client retrieval-augmented generation over project document collections. vLLM inference on dedicated VM.
+- **AI ProjectDesk** — in-context AI assistant embedded in Odoo. Reads the requirement record, injects it as context, streams thinking + response live. Engineers paste results back to fields.
 
 ---
 
-### 🚀 What I'm Doing
-- 🛠️ **Leading RETRAG:** Developing an AI-powered tool for document and image-based retrieval.
-- 🧠 **AI Integration:** Building pipelines for semantic search using Vector Databases (ChromaDB) and LLM interfaces (Ollama/Open WebUI).
-- 🏗️ **Full-Stack:** Crafting robust applications using React, Node.js, and PostgreSQL.
-- 🏂 **Interests:** When I'm not optimizing query performance, I'm likely snowboarding or geeking out over Maths and Sports.
+### Portfolio
 
-### 🛠️ Tech Stack
-* **Languages:** JavaScript (ES6+), Python, SQL, C
-* **Frontend:** React, HTML5, CSS3, Open WebUI
-* **Backend:** Node.js, PostgreSQL, ChromaDB, REST APIs
-* **Tools:** Docker, Git, Ollama, LangChain principles
-
-### 📈 Professional Experience
-* **Full-Stack Developer @ Huracan Technical Advisory** (Jul 2024 – Present)
-* **Codecademy Alum** (Focus on Full-Stack & API Development)
-* **Former Head of Health** (Bringing leadership and analytical skills from a previous career in Brisbane)
-
-### 📫 Let's Connect
-* **LinkedIn:** [Max Gibson](https://www.linkedin.com/in/max-gibson-784a63234/)
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [finly](https://github.com/GibbHubb/finly) | FastAPI · React 18 · TypeScript · Zustand | Personal finance tracker — transactions, categories, budget progress bars |
+| [GymPal](https://github.com/GibbHubb/GymPal) | React Native · Expo · Node.js · Socket.IO | Dual-portal fitness app — client tracking + trainer session streaming |
+| [Our_Menu](https://github.com/GibbHubb/Our_Menu) | Next.js 14 · Supabase · Claude API | Recipe collection with AI chat, decision maker, shopping lists |
+| [ai-learning-path-generator](https://github.com/GibbHubb/ai-learning-path-generator) | FastAPI · React · GPT-4 | Generates structured learning roadmaps from a goal statement |
 
 ---
+
+### Tech
+
+```
+Languages    Python · TypeScript · JavaScript · SQL · Bash
+Backend      FastAPI · Node.js/Express · Odoo (Python ORM) · SQLAlchemy · Alembic
+Frontend     React 18 · React Native · Next.js 14 · Zustand · OWL (Odoo)
+AI / RAG     OpenAI API · Open WebUI · vLLM · Chroma · SSE streaming
+Infra        Proxmox · LXC containers · PostgreSQL · Gitea · Railway · GitHub Actions
+```
+
+---
+
+### Connect
+
+- Work: Huracán Technical Advisory — `huracan-tech.nl`
+- GitHub: you're already here
